@@ -12,4 +12,4 @@ The ability to perceive the shape and motion of hands can be a vital component i
 <br>
 
 ## Result 
-![Result](images/3.gif)
+![Result](images/3.png)
